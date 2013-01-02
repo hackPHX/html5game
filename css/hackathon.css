@@ -23,8 +23,18 @@ html {
   font-size: 22px;
 }
 
+.paper .span6 a {
+  display: block;
+}
+
 .thumbnail {
   border: 0;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
+
+a.thumbnail:hover {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
