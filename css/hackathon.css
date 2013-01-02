@@ -1,0 +1,34 @@
+body {
+	background-color: transparent; /*bootstrap has this as white*/
+}
+
+html {	
+width: 100%;
+height: 100%;
+background: url("../img/desert.png") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
+
+/* http://ftourini.deviantart.com/art/old-paper-stock-03-257252495 */
+.paper6 {
+background-image: url("../img/old_paper_stock_03_by_ftourini-d495tan.png");
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+padding: 2em 3em 2em 3em;
+}
+
+/* http://ftourini.deviantart.com/art/old-paper-stock-02-256716612 */
+.paper8 {
+background-image: url("../img/old_paper_stock_02_by_ftourini-d48ubt0.png");
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+padding: 2em 3em 2em 3em;
+}
+
