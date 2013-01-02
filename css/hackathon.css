@@ -12,23 +12,53 @@ background: url("../img/desert.png") no-repeat center center fixed;
 background-size: cover;
 }
 
+/* http://tiled-bg.blogspot.com/2012/11/seamless-paper-texture-pale-yellow.html */
+.paper1 {
+background-image: url("../img/seamless_paper_texture-pale_yellow.jpg");
+background-position:left top;
+background-size:cover;
+padding: 7em 3em 2em 3em;
+}
 
+/* http://lostandtaken.com/blog/2011/6/2/6-high-quality-seamless-paper-textures.html */
+.paper2 {
+background-image: url("../img/Seamless_Paper_Textures/seamlesspaper1.jpg");
+background-position:left top;
+background-size:cover;
+padding: 7em 3em 2em 3em;
+}
 
-/* http://ftourini.deviantart.com/art/old-paper-stock-03-257252495 */
+.paper3 {
+background-image: url("../img/Seamless_Paper_Textures/seamlesspaper2.jpg");
+background-position:left top;
+background-size:cover;
+padding: 7em 3em 2em 3em;
+}
+
+.paper4 {
+background-image: url("../img/Seamless_Paper_Textures/seamlesspaper3.jpg");
+background-position:left top;
+background-size:cover;
+padding: 7em 3em 2em 3em;
+}
+
+.paper5 {
+background-image: url("../img/Seamless_Paper_Textures/seamlesspaper4.jpg");
+background-position:left top;
+background-size:cover;
+padding: 7em 3em 2em 3em;
+}
+
 .paper6 {
-background-image: url("../img/old_paper_stock_03_by_ftourini-d495tan.png");
-background-repeat:no-repeat;
+background-image: url("../img/Seamless_Paper_Textures/seamlesspaper5.jpg");
 background-position:left top;
 background-size:cover;
 padding: 7em 3em 2em 3em;
 }
 
-/* http://ftourini.deviantart.com/art/old-paper-stock-02-256716612 */
-.paper8 {
-background-image: url("../img/old_paper_stock_02_by_ftourini-d48ubt0.png");
-background-repeat:no-repeat;
+.paper7 {
+background-image: url("../img/Seamless_Paper_Textures/seamlesspaper6.jpg");
 background-position:left top;
 background-size:cover;
 padding: 7em 3em 2em 3em;
 }
-
