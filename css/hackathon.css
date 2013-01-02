@@ -29,3 +29,11 @@ html {
   -moz-box-shadow: none;
   box-shadow: none;
 }
+
+.logo h2{
+	font-family: 'Fugaz One', cursive;
+	text-align: right;
+	font-size: 60px;
+	color: #3FA4A8;
+	text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
