@@ -1,0 +1,19 @@
+{
+  "name": "beemuse",
+  "version": "0.1.5",
+  "main": [
+    "beemuse.css",
+    "_beemuse.scss",
+    "beemuse/_3dflips.scss",
+    "beemuse/_paper.scss",
+    "beemuse/_stitches.scss"
+  ],
+  "dependencies": {},
+  "_id": "beemuse@0.1.5",
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/itmustbe/package-beemuse"
+  }
+}
